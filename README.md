@@ -1,1 +1,1 @@
-# Himanicoder
+I'm Himani. I'm pursuing b.tech with IT in guru nanak dev engineering college. I passed my 12th from preach convent international school . I from Himachal Pradesh but currently living in Ludhiana. My hobbies are book reading, learning interesting facts.
