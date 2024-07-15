@@ -10,3 +10,4 @@ I'm Himani. I'm pursuing b.tech with IT in guru nanak dev engineering college. I
 |Mathematics|    100     |     70      |
 | Physical  |    100     |     84      |
 | English   |    100     |     72      |
+|total marks|    100     |   86        |
